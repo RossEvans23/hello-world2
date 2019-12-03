@@ -1,2 +1,3 @@
 # hello-world2
-Tester
+
+this is a test of GitHub
